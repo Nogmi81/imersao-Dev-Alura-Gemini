@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title>Campeões do Mundo</title>
+</head>
+
+<body>
+    <header>
+        <h1>Campeões do Mundo</h1>
+   </header>
+    <main>
+        <section>
+	
+	<form onsubmit="return false;">		
+           <input type="text" placeholder="Pesquise por Seleção ou Ano. Ex: Brasil ou 1958" id="campo-pesquisa">
+           <div class="botoes"><button onclick="pesquisar()">Pesquisar</button>
+		<button type="reset">Limpar</button></div>
+</form>
+	</section>
+
+        <section class="resultados-pesquisa" id="resultados-pesquisa"> </section>
+
+		        
+    </main>
+    <footer>
+        <p>2024 - Campeões Mundiais. Todos os direitos reservados</p>
+        <p>Entre em contato pelo email: copadomundo@cm.com.br</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+       
+</body>
+
+</html>
