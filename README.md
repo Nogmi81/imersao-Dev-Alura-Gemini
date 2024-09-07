@@ -60,3 +60,6 @@ Este script JavaScript implementa uma função de pesquisa simples em uma págin
 **Teste**
 
 Na barra de pesquisa pode-se digitar um nome de alguma Seleção ou Ano
+
+Ver link: https://imersao-dev-alura-gemini-omega.vercel.app/
+
