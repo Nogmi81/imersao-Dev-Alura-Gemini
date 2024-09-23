@@ -1,5 +1,6 @@
 # README.md
 
+Esse projeto foi criado para Imersão Dev Alura + Gemini que ocorreu em SET/2024
 ## O que este script faz?
 
 Este script JavaScript implementa uma função de pesquisa simples em uma página web. Ao digitar um termo na caixa de pesquisa, o script varre uma lista de dados (não incluída neste exemplo) e exibe os resultados relevantes em uma seção específica da página.
